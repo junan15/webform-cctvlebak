@@ -1,6 +1,7 @@
 // Isi file data-toko.js
 const listToko = [
     // Tempel (Paste) hasil dari Excel di sini
+{ kode: "T5WD", nama: "SIMPANG CIGADUNG PANDEGLANG " },
 { kode: "TIX8", nama: "RAYA PULO AMPEL" },
 { kode: "T2TG", nama: "RAYA PALKA PABUARAN" },
 { kode: "T1QV", nama: "MANDALA RANGKASBITUNG" },
